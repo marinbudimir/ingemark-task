@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ES2022",
+    "moduleResolution": "Node",
+    "outDir": "dist",
+    "baseUrl": ".",
+    "paths": {
+      "*": ["*", "dist/*"]
+    },
+    "strict": true,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": ["node_modules", "./*.ts", "test"]
+}

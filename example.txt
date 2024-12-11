@@ -1,0 +1,12 @@
+other example [ www.google.com ] fg
+other example [ www.google.com ] fg
+bla bla asdfasdf www.nodejs.org
+yet another example [ some text www.stackoverflow.com ] sdfgsd
+multiple urls [bla www.first.com asdfasdf www.youtube.com truc]
+multiple levels[ [www.nexusmods.com] www.djasjdajsda.com]
+
+multiple levels[ www.reddit.com [www.wikipedia.org]]
+asdf \[www.yahoo.com]
+asdf \\[www.yahoo.com]
+other example [ https://fullenrich.com/content/list-of-random-emails ] fg
+other example [ www.google.com ] fg
